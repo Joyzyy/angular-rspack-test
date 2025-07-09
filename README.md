@@ -1,5 +1,12 @@
 # Angular RSPack Setup
 
+## Installing dependencies
+
+To install the dependencies, run:
+```bash
+npm i --force
+```
+
 ## Development server
 
 To start a local development server, run:
